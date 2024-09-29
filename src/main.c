@@ -1,3 +1,4 @@
+// Based on examples from inotify(7) man pages
 
 #include <errno.h>
 #include <poll.h>
